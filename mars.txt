@@ -2,4 +2,4 @@ Mars is know as the red planet.
 
 Mass:   6.4185*1023kg
 Volume: 1.6318*1011 km3
-Satellite: 4
+Satellite: 2
